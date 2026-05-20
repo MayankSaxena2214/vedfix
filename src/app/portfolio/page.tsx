@@ -1,10 +1,8 @@
-import Homepage from "@/pages/Homepage"
-
 
 const page = () => {
   return (
     <div>
-      <Homepage/> 
+      Portfolio
     </div>
   )
 }
