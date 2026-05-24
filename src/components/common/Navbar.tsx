@@ -40,7 +40,7 @@ const Navbar = () => {
 
   return (
     <PageContainer
-      styles="flex items-center justify-between bg-white border-b border-transparent bg-gradient-to-r from-[rgba(0,0,163,0.1)] to-[rgba(214,0,192,0.1)] bg-[length:100%_1px] bg-no-repeat bg-bottom"
+      styles="flex items-center justify-between gap-20 bg-white border-b border-transparent bg-gradient-to-r from-[rgba(0,0,163,0.1)] to-[rgba(214,0,192,0.1)] bg-[length:100%_1px] bg-no-repeat bg-bottom"
     >
       <div className="flex items-center justify-between">
         <Image
