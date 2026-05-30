@@ -1,8 +1,9 @@
+import ServicePage from "@/pages/ServicePage"
 
 const page = () => {
   return (
     <div>
-      Services
+      <ServicePage/>
     </div>
   )
 }

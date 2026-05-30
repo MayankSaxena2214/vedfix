@@ -1,8 +1,9 @@
+import Portfolio from "@/pages/Portfolio"
 
 const page = () => {
   return (
     <div>
-      Portfolio
+      <Portfolio/>
     </div>
   )
 }

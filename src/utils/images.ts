@@ -36,6 +36,18 @@ import btfi4 from "../../public/btfi4.svg";
 
 import sypimg from "../../public/sypimg.svg";
 import project1 from "../../public/project1.svg";
+import herobg from "../../public/herobg.svg";
+
+import sc1 from "../../public/sc1.svg";
+import sc2 from "../../public/sc2.svg";
+import sc3 from "../../public/sc3.svg";
+import sc4 from "../../public/sc4.svg";
+import sc5 from "../../public/sc5.svg";
+import sc6 from "../../public/sc6.svg";
+import sc7 from "../../public/sc7.svg";
+import sc8 from "../../public/sc8.svg";
+import sc9 from "../../public/sc9.svg";
+import portfolio from "../../public/portfolio.svg";
 
 export const IMAGES={
     logo,
@@ -70,5 +82,16 @@ export const IMAGES={
     btfi3,
     btfi4,
     sypimg,
-    project1
+    project1,
+    herobg,
+    sc1,
+    sc2,
+    sc3,
+    sc4,
+    sc5,
+    sc6,
+    sc7,
+    sc8,
+    sc9,
+    portfolio
 }
