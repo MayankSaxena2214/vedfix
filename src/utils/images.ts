@@ -48,6 +48,7 @@ import sc7 from "../../public/sc7.svg";
 import sc8 from "../../public/sc8.svg";
 import sc9 from "../../public/sc9.svg";
 import portfolio from "../../public/portfolio.svg";
+import howwework from "../../public/howwework.svg";
 
 export const IMAGES={
     logo,
@@ -93,5 +94,6 @@ export const IMAGES={
     sc7,
     sc8,
     sc9,
-    portfolio
+    portfolio,
+    howwework
 }

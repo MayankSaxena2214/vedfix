@@ -1,6 +1,7 @@
 import CommonHeroSection from "@/components/common/CommonHeroSection"
 import MovingStrap from "@/components/home/MovingStrap"
 import StartYourProject from "@/components/home/StartYourProject"
+import HowWeWork from "@/components/services/HowWeWork"
 import ServicesWeProvide from "@/components/services/ServicesWeProvide"
 
 
@@ -10,6 +11,7 @@ const ServicePage = () => {
       <CommonHeroSection title="Services" text1="Home" text2="Services" text1Link="/" text2Link="/services"/>
       <MovingStrap/>
       <ServicesWeProvide/>
+      <HowWeWork/>
       <StartYourProject/>
     </div>
   )
